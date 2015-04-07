@@ -5,3 +5,10 @@ Usage:
 
 
 Requires zsh & wordnet.
+
+
+For the soundpoem filter, you can pipe in any text file:
+
+    ./soundpoem.sh < textfile
+
+The result will be a dada-style sound poem.
